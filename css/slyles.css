@@ -1,7 +1,72 @@
 body {
   background-color: #ffffff;
   color: #757575;
+  font-family: roboto;
 }
 ul {
   list-style: none;
+}
+.text-web {
+  color: #2196f3;
+}
+.link-logo {
+  color: #000000;
+  list-style: none;
+  text-decoration: none;
+}
+.link-studio {
+  color: #212121;
+}
+.link-studio:hover,
+.link-studio:focus {
+  color: #2196f3;
+}
+.link-portfolio {
+  color: #212121;
+}
+.link-portfolio:hover,
+.link-portfolio:focus {
+  color: #2196f3;
+}
+.link-contacts {
+  color: #212121;
+}
+.link-contacts:hover,
+.link-contacts:focus {
+  color: #2196f3;
+}
+.link-mail {
+  color: #757575;
+}
+.link-mail:hover,
+.link-mail:focus {
+  color: #2196f3;
+}
+.link-tel {
+  color: #757575;
+}
+.link-tel:hover,
+.link-tel:focus {
+  color: #2196f3;
+}
+.logo-link {
+  color: #ffffff;
+  list-style: none;
+  text-decoration: none;
+  background: #2f303a;
+}
+.web-text {
+  color: #2196f3;
+}
+.adress {
+  color: #ffffff;
+  background-color: #2f303a;
+}
+.link {
+  color: rgba(255, 255, 255, 60%);
+  background-color: #2f303a;
+}
+.link:hover,
+.link:focus {
+  color: #2196f3;
 }
