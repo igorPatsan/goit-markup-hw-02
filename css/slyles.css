@@ -58,7 +58,7 @@ ul {
 .web-text {
   color: #2196f3;
 }
-.adress {
+.list-items > .adress {
   color: #ffffff;
   background-color: #2f303a;
 }
