@@ -49,24 +49,43 @@ ul {
 .link-tel:focus {
   color: #2196f3;
 }
+
 .logo-link {
   color: #ffffff;
   list-style: none;
   text-decoration: none;
-  background: #2f303a;
 }
 .web-text {
   color: #2196f3;
 }
 .list-items > .adress {
   color: #ffffff;
-  background-color: #2f303a;
 }
 .link {
   color: rgba(255, 255, 255, 60%);
-  background-color: #2f303a;
 }
 .link:hover,
 .link:focus {
   color: #2196f3;
+}
+.footer {
+  background-color: #2f303a;
+}
+.button {
+  color: #212121;
+  background-color: #f5f4fa;
+}
+.button:hover,
+.button:focus {
+  color: #ffffff;
+  background-color: #2196f3;
+}
+.hiro_button {
+  color: #ffffff;
+  background-color: #2196f3;
+}
+.hiro_button:hover,
+.hiro_button:focus {
+  color: #ffffff;
+  background-color: #2196f3;
 }
