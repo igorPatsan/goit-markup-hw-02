@@ -1,3 +1,6 @@
+:root {
+  --first-title-color: #ffffff;
+}
 body {
   font-family: Roboto;
 }
