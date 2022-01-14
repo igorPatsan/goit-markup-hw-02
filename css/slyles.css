@@ -153,6 +153,7 @@ a {
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--first-title-color);
+  cursor: pointer;
 }
 .hiro-p-button:hover,
 .hiro-p-button:focus {
