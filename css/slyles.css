@@ -63,8 +63,88 @@ a {
 .header-link-contacts:focus {
   color: #2196f3;
 }
-/*----------------portfolio ---------------*/
-.button-port {
+/*--------------STUDIO-Hiro-----------------*/
+.hiro-s {
+  background-color: #2f303a;
+}
+.hiro-title-s {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: calc(60 / 44);
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.hiro-button-s {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: calc(30 / 16);
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.06em;
+  color: #ffffff;
+  border: 1px solid #000000;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/*-----SDUDIO---advantages-- Приемущества----*/
+.advantages-title {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: calc(16 / 14);
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #212121;
+}
+.advantages-text {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: calc(24 / 14);
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+/*------- SDUDIO---DO-----*/
+
+.do-title {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: calc(42 / 36);
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+/*--------  SDUDIO-----TEAM-----*/
+.team-title {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: calc(42 / 36);
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+.team-name {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: calc(19 / 16);
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+.team-profi {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: calc(19 / 16);
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+/*----------------portfolio hiro---------------*/
+.hiro-p-button {
   font-family: Roboto;
   font-style: normal;
   font-weight: 500;
@@ -74,21 +154,21 @@ a {
   letter-spacing: 0.03em;
   color: var(--first-title-color);
 }
-.button-port:hover,
-.button-port:focus {
+.hiro-p-button:hover,
+.hiro-p-button:focus {
   color: #ffffff;
   background-color: #2196f3;
 }
 
-/*--проекты--*/
-.project-text {
+/*---------------portfolio----проекты--------------------*/
+.project-title {
   font-weight: bold;
   font-size: 18px;
   line-height: calc(36 / 18);
   letter-spacing: 0.06em;
   color: var(--first-title-color);
 }
-.project-text-main {
+.project-text {
   font-weight: normal;
   font-size: 16px;
   line-height: calc(30 / 16);
