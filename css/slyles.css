@@ -202,6 +202,8 @@ a {
   color: var(--main-white-color);
 }
 .footer-link-contact {
+  font-family: Roboto;
+  font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: calc(24 / 14);
